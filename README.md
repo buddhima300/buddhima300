@@ -55,7 +55,7 @@
   <tr>
     <td align="center">
       <a href="https://github.com/buddhima300/Web-Application/tree/master/neuroDoc" target="_blank">
-        <img src="https://raw.githubusercontent.com/buddhima300/Web-Application/master/neuroDoc/screenshots/ss1.png" alt="NeuroDoc Project" width="300" />
+        <img src="https://raw.githubusercontent.com/buddhima300/Web-Application/master/screenshots/ss1.png" alt="NeuroDoc Project" width="300" />
         <br />
         <strong>🔒 NeuroDoc Encryption</strong>
       </a>
